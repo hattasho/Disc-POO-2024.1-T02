@@ -1,3 +1,5 @@
+QUESTÕES RESOLVIDAS CAP 04 README:
+
 # Exercícios resolvidos do capítulo 4 do livro de Fundamentos da Programação da matéria de POO de JAVA
 
 ## Enunciados das questões:
@@ -125,4 +127,10 @@ Coeficiente do salário: < = 25
   
 - O produto que não preencher nenhum dos requisitos a seguir terá desconto de 3%, caso contrário, 0 (zero).
 
+Os requisitos são:
+Tipo: A
+Refrigeração: S
 
+- O novo preço, ou seja, preço de custo mais adicional menos desconto;
+  
+25. Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360o ou menores que −360o, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
